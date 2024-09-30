@@ -1,6 +1,6 @@
 import base64
 import io
-
+import numpy as np
 import requests
 from PIL import Image
 
