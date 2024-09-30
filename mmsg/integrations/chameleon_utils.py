@@ -5,7 +5,7 @@ from typing import TYPE_CHECKING, List, Literal, Optional, Tuple, TypedDict, Uni
 from PIL import Image
 import torch
 from typing_extensions import NotRequired
-
+import numpy as np
 from ..utils import pil_to_base64
 
 if TYPE_CHECKING:
